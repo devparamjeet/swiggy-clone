@@ -1,0 +1,5 @@
+{
+    "USER_API":"http://localhost:5000/users/",
+    "RESTAURANT_API":"http://localhost:5000/restaurant/",
+    "PAYMENT_API":"http://localhost:5000/payment/"
+}

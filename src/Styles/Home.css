@@ -1,0 +1,14 @@
+.text-logo{
+    color: #fc8019;
+}
+
+.border-swag{
+    border: 2px solid #fc8019 !important;
+    border-radius: 10px !important;
+}
+
+.bg-swag{
+    background: #fc8019 !important;
+    color: white !important;
+    font-weight: bold !important;
+}
